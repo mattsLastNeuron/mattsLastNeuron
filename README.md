@@ -1,4 +1,4 @@
-<h1 align="center">I'm Matthew Ward</h1>
+<h1 align="center">Hi I'm Matthew Ward</h1>
 <h3 align="center">I'm a learning software and web developer from Barbados</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattslastneuron" alt="mattslastneuron" /></a> </p>
